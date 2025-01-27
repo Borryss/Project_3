@@ -1,0 +1,5 @@
+E:
+
+cd DJANGO_PROJECTS\Project_3 
+
+docker-compose up
