@@ -5,3 +5,4 @@ cd DJANGO_PROJECTS\Project_3
 docker-compose up -d 
 
 docker-compose run --rm web-app sh -c "python manage.py "
+
